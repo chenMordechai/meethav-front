@@ -10,7 +10,7 @@
     "dependencies": {
         "@google/maps": "^0.5.5",
         "@mdi/font": "^3.8.95",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "bootstrap-vue": "^2.0.0-rc.11",
         "buefy": "^0.7.10",
         "core-js": "^2.6.5",
